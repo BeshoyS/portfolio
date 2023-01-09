@@ -38,7 +38,7 @@ export default function MenuPhone() {
           </a>
         </li>
         <li className="mb-3">
-          <Button text={"Resume"} link={'https://drive.google.com/file/d/1UsEvSlS_E77e4LsQbR7dwkWrcWh0_ZYx/view'} />
+          <Button text={"Resume"} link={'https://drive.google.com/file/d/16fYkKwcYSR3lLAnHxPt92AOMgL7w-NqR/view'} />
         </li>
       </ul>
     </nav>
